@@ -8,7 +8,7 @@ end
 
 local Neverlose_Main = {
     Settings = {
-        CloseBind = "RightControl",
+        CloseBind = "Insert",
     },
     Flags = {},
     SettingsFlags = {},
